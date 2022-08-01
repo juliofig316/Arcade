@@ -1,0 +1,45 @@
+
+body {
+    background-color: rgb(18, 19, 99);
+    color: gold;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 10vh;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 32px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: b
+}
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10vh;
+    border: solid gold 3px;
+    justify-content: space-evenly;
+    padding: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+a:hover {
+    padding: 2px;
+    border: solid 1px blueviolet
+}
